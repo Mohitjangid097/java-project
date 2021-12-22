@@ -1,4 +1,4 @@
-Flight Ticket Booking System in java.
+Design Ticket Booking System for  Flight and store the entries in database
 
 
 Tools use:-
